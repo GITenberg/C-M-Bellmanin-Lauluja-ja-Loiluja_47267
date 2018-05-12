@@ -1,4 +1,5 @@
 _repo: C-M-Bellmanin-Lauluja-ja-Loiluja_47267
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Gottlund, Carl Axel
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '44225'
     url: http://www.gutenberg.org/2009/agents/44225
     wikipedia: http://fi.wikipedia.org/wiki/Carl_Axel_Gottlund
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bellman, Carl Michael
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44224
     wikipedia: http://en.wikipedia.org/wiki/Carl_Michael_Bellman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47267#C-M-Bellmanin-Lauluja-ja-Loiluja
 gutenberg_issued: '2014-11-02'
 gutenberg_type: Text
 identifiers:
